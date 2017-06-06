@@ -1,4 +1,4 @@
 # python-packaging
 
->>> import funniest
->>> print funniest.joke()
+ import funniest
+ print funniest.joke()
